@@ -40,6 +40,17 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'first_app',
+    'bootstrap3',
+    'accounts',
+    'multiupload',
+    'blog',
+    'library',
+    'easy_thumbnails',
+    'event',
+    'django.contrib.humanize',
+    'crispy_forms',
+    'niji',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
