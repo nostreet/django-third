@@ -27,7 +27,7 @@ SECRET_KEY = 'p-g+=$658dr^n0#y-mgycqhhxdqd#ta=4t+po_o!ob-(_9o!^s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nostreet.pythonanywhere.com']
 
 
 # Application definition
